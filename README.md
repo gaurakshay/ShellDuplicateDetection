@@ -1,4 +1,4 @@
-# Find Similarities
+# Duplicate Detection
 
 The purpose is to find the similarities/differences in the files that located in a directory.
 The script located (findDifferences.sh) will look at all the .py files located in the current
